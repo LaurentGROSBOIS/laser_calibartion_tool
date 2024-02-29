@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data_file filename="S118242_D2_996_VER1_LD_changed" datetime="19.11.2020 15:13:47" file_structure_version="1" generator_version="4" data_version="1" head_id="118242" head_name="intelliSCAN 10; 1064nm" varioSCAN_id="" varioSCAN_name="" ftheta="118246" correction_dimension="D2" correction_nr="996" xsd_version="1.0">
+  <reference_point unit="x, y in [mm]">
+    <value>0.00, 0.00, 0.00</value>
+  </reference_point>
+  <working_distance_a unit="[mm], A-Distance">
+    <value>100.00</value>
+  </working_distance_a>
+  <focus_distance unit="[mm]">
+    <value>100.00</value>
+  </focus_distance>
+  <coefficient_f2 unit="[mm]">
+    <value>0.00</value>
+  </coefficient_f2>
+  <coefficient_f3 unit="[mm]">
+    <value>0.00</value>
+  </coefficient_f3>
+  <coefficient_f4 unit="[mm]">
+    <value>0.00</value>
+  </coefficient_f4>
+  <tracking_error_xy unit="[ms]">
+    <value>1.00</value>
+  </tracking_error_xy>
+  <tracking_error_z unit="[ms]">
+    <value>1.00</value>
+  </tracking_error_z>
+  <scan_field unit="[mm], quadratic">
+    <value>120.00</value>
+  </scan_field>
+  <z_range unit="maximum z-Range [mm] from - to +">
+    <value>0.00</value>
+  </z_range>
+  <mark_speed unit="[m/s]">
+    <value>1.00</value>
+  </mark_speed>
+  <jump_speed unit="[m/s]">
+    <value>1.00</value>
+  </jump_speed>
+  <rayleigh_length unit="[mm]">
+    <value>1.00</value>
+  </rayleigh_length>
+  <a_value unit="only for information">
+    <value>0.00</value>
+  </a_value>
+  <b_value unit="only for information">
+    <value>0.00</value>
+  </b_value>
+  <c_value unit="only for information">
+    <value>0.000000E+000</value>
+  </c_value>
+  <distance_b unit="[mm], only for information">
+    <value>0.00</value>
+  </distance_b>
+</data_file>
